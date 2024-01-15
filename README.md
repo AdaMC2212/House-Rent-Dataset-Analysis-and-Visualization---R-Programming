@@ -1,10 +1,17 @@
-![image](https://github.com/AdaMC2212/House-Rent-Dataset-Analysis-and-Visualization---R-Programming/assets/130897752/83d2e12d-2857-413b-9987-5f2a8cc017f8)![image](https://github.com/AdaMC2212/House-Rent-Dataset-Analysis-and-Visualization---R-Programming/assets/130897752/bfe9a4f2-b9c0-4ace-86fb-7e089b457203)# HouseRent Dataset Analysis and Visualization
+# House Rent Dataset Analysis and Visualization
 
 This is a HouseRent Dataset Analysis and Visualization created R programming language.
 
 ## Scenario
 
 This dataset contains the details of varied house rents that could determine how people have an impact to choose the houses for rental based on their lifestyle. Human Rights Measurement team assigned you to perform analysis with the given dataset to identify the how people choose their rental house based on their family background, locality and lifestyle and provide meaningful insight for decision making. 
+
+For the assignment, you are asked to explore the application of data analytics techniques to the dataset which is provided. You must study data problems related to the dataset, giving special consideration to the unique properties of the problem domain, and testing one or more techniques on it.
+
+Your analysis needs to be thorough and comprehensive, and goes beyond the scope of what has been covered in this course. You should incorporate data exploration, manipulation, transformation, and visualization concepts with data analysis techniques in your solution. It is crucial to provide explanations and justifications for the chosen techniques.
+
+You also may need to pre-process your data to get it into an appropriate format. The assignment should involve a number of techniques by categorize it into different criteria and a detailed exploration with the commands using in each criteria. Outline the findings, analyze them and justify correctly with an appropriate graph. Also, a supporting document is needed to reflect the graph and code using R programming concepts.
+
 
 ## Techniques
 
